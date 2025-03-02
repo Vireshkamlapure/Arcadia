@@ -1,0 +1,4 @@
+ultralytics
+wikipedia
+opencv-python
+pyttsx3

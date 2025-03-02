@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/Arcadia/ar/train
+val: /content/drive/MyDrive/Arcadia/ar/val
+
+nc: 4
+names: ["arduino","esp","raspberry_pi","ultrasonic"]
